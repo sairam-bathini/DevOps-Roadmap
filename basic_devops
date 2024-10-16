@@ -1,0 +1,82 @@
+What is DevOps?
+
+The term DevOps is a combination of two words i.e. Development and Operations.
+
+DevOps= Development + Operations.
+Definition: DevOps is a Methodology that allows a single team to manage the entire application development life cycle, that is development, testing, deployment, and operations.
+
+The objective of devops is to shorten the system’s development life cycle.
+DevOps is implementing Automation at every stage of the Software Development Life Cycle.
+DevOps Stages:
+
+Version Control: Maintain different versions of the code.
+
+Tools used: Git, Bitbucket
+
+Continuous Integration: Compile, Validate, Code Review, Unit Testing, Integrating Testing.
+
+Tools used: Jenkins
+
+Continuous Delivery: Deploying the build app to test servers.
+
+Tools used: Maven,
+
+Continuous Deployment: Deploying the test app on the production server for Release.
+
+Tools used: UrbanCode Deploy
+
+Who is a DevOps Engineer?
+
+DevOps Engineer is like a bridge builder between the people who create software (developers) and the people who operate and maintain it (operations or IT teams).
+
+Imagine you're constructing a bridge. Developers design and build one side of the bridge, while the operations team is responsible for the other side. The DevOps engineer's job is to make sure these two sides connect smoothly and that the bridge is safe and functional.
+
+Similarly, in the world of software, developers write the code for new features, and operations teams manage the servers and infrastructure where the software runs. The DevOps engineer helps automate and streamline the process of getting new code from the developers into the hands of users without causing problems.
+
+Roadmap for DevOps Role:
+
+Step 1: Understand the Software Development Life Cycle and learn how DevOps made it reliable and fast deliverable.
+
+Step 2: Create a free tier account on any cloud provider like AWS, AZURE, or GCP for practicing DevOps concepts.
+
+Step 3: Start with the Linux basics and practice them in any one of the top cloud providers like AWS, AZURE, or GCP free tier account.
+
+Step 4: Once you are familiar with the Linux basics then proceed with GIT.
+
+Topics to be covered:
+
+What is GIT?
+Three stages of GIT ( Working Directory, Staging area, Local Repo).
+Learn to add, and commit in Git.
+GIT branching, Branching strategies.
+Step 5: Then you can start with Configuration Management tools like Chef, Puppet, and Ansible.
+
+Basically, the Configuration Management tools help to setup configurations on the servers/ VMs.
+
+Topics to be covered considering Chef:
+
+What is Chef?
+Chef Architecture
+Chef Cookbooks and chef recipe creation.
+Chef Attributes
+Step 6: Then you can learn Docker for containerization.
+
+Docker is a centralized platform to create, deploy, and run your applications.
+
+Topics to be covered:
+
+Docker Architecture
+Installation of Docker
+Dockerfile creation
+Docker Volume,
+Docker Port Mapping
+Step 7: Then comes the main heart of the DevOps pipelines i.e. Continuous Integration and Continuous Deployment/ Delivery.
+
+For this, you can learn a very popular tool i.e. JENKINS.
+
+Jenkins is not only a CI/ CD tool it’s a framework where you can add multiple plugins to perform build, deployment, delivery, unit testing, Static Code Analysis, Software Composition Analysis, etc.
+These are the concepts or tools which you need to learn to become a DevOps Engineer.
+
+In addition to these concepts, you can learn Kubernetes for containerization management/ Orchestration, Terraform for Infrastructure as Code, and some monitoring and logging tools like Nagios, and Splunk.
+
+Thanks for reading, if you like my content upvote and follow me for more such informative content.
